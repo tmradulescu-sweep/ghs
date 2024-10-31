@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+bun run $HOME/.local/bin/gh-viewer.ts $1 $2
